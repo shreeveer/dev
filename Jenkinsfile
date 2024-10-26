@@ -1,5 +1,3 @@
-#hi
-
 pipeline{
     agent {label "slave"}
 
